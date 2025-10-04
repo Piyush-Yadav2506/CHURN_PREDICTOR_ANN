@@ -1,6 +1,7 @@
 # 🎯 Customer Churn Predictor using Artificial Neural Networks
 A machine learning application that predicts whether a bank customer is likely to leave (churn) based on their profile and behavior. Built with TensorFlow and deployed using Streamlit for an interactive user experience.
-!("C:\Users\piyus\Pictures\Saved Pictures\customer-churn.jpg")
+
+![Customer Churn Banner](customer-churn.jpg)
 
 ## 🌟 What Does This App Do?
 This application helps banks identify customers who might leave their services. By analyzing customer data like age, balance, credit score, and activity patterns, the AI model predicts the likelihood of customer churn. This allows banks to:
@@ -66,3 +67,28 @@ The prediction model uses an Artificial Neural Network (ANN) with the following 
 ## 🎨 Screenshots
  ### Main Dashboard
  
+![Main Dashboard](main_dash.png)
+
+### Input Summary
+![Input Summary](input_summary.png)
+
+### Prediction Result
+![Prediction](prediction.png)
+
+## 👨‍💻 Author
+ ### Piyush Yadav
+ - GitHub: @Piyush-Yadav2506
+ - LinkedIn: in/piyush-yadav-622b89134
+
+## 🙏 Acknowledgments
+
+ - Thanks to the open-source community for amazing libraries
+ - Dataset source: [Kaggle]
+ - Inspired by real-world banking challenges in customer retention
+
+## ✨ Support
+ If you found this project helpful, please give it a ⭐ on GitHub!
+
+ For questions or issues, please open an issue in the repository or contact me directly.
+
+**Made with ❤️ and lots of ☕**
